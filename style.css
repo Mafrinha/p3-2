@@ -14,8 +14,7 @@ body{ /*estilização no corpo da página*/
     min-height: 100vh; /*define o tamanho minimo dos elementos: 100 vw = tamanho da janela de visualização*/
 }
 .caixa-principal{ /*estilização da classe caixa-principal*/
-    
-    background-image: url(potter.jpg);
+    background-color: var(--cor-principal);
     width: 90%; /*largura dos elementos*/
     text-align: center; /*alinha o texto no centro*/
     padding: 20px; /*espaçamento interno de 20 pixels*/
