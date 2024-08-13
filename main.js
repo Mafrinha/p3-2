@@ -214,7 +214,7 @@ function respostaSelecionada(opcaoSelecionada) {
 
 //Essa função tem como objetivo exibir a narrativa final baseada nas respostas do usuário.
 function mostraResultado() {
-    caixaPerguntas.textContent = "De acordo com suas respostas, este é seu..."; //Define o conteúdo de texto do elemento caixaPerguntas para informar o usuário sobre o resultado.
+    caixaPerguntas.textContent = "De acordo com suas respostas, sua casa é..."; //Define o conteúdo de texto do elemento caixaPerguntas para informar o usuário sobre o resultado.
     textoResultado.textContent = historiaFinal; //Define o conteúdo de texto do elemento textoResultado como a narrativa final acumulada.
     caixaAlternativas.textContent = ""; // Limpa o conteúdo do elemento caixaAlternativas.
 }
