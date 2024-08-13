@@ -70,7 +70,7 @@ const perguntas = [ //abre uma lista de perguntas
             afirmacao: "Sonserina",
         },
     ]
-    } //fecha objeto de pergunta
+    }, //fecha objeto de pergunta
     { //abre objeto de pergunta
         enunciado: "No seu grupo de amigos, você é:",
         alternativas: [
@@ -91,7 +91,7 @@ const perguntas = [ //abre uma lista de perguntas
             afirmacao: "Grifinória",
         },
     ]
-    } //fecha objeto de pergunta
+    },//fecha objeto de pergunta
     { //abre objeto de pergunta
         enunciado: "Você recebeu sua carta de admissão em Hogwarts. Qual a sua reação?",
         alternativas: [
@@ -112,7 +112,7 @@ const perguntas = [ //abre uma lista de perguntas
             afirmacao: "Lufa-Lufa",
         },
     ]
-    } //fecha objeto de pergunta
+    }, //fecha objeto de pergunta
     {
         enunciado: "Você acabou de comprar seu animal de estimação, qual você escolheu?",
         alternativas: [
@@ -133,7 +133,7 @@ const perguntas = [ //abre uma lista de perguntas
             afirmacao: "Sonserina",
         },
     ]
-}
+},
 {        enunciado: "Você vê Harry Potter pela primeira vez, qual sua reação?",
         alternativas: [
         {//alternativa 1
@@ -153,7 +153,7 @@ const perguntas = [ //abre uma lista de perguntas
             afirmacao: "Corvinal",
         },
     ]
-}
+},
     { //abre objeto de pergunta
         enunciado: "O que você veria no espelho de Oesed?",
         alternativas: [
