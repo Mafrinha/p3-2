@@ -113,7 +113,7 @@ const perguntas = [ //abre uma lista de perguntas
         },
     ]
     } //fecha objeto de pergunta
-    { //abre objeto de pergunta
+    {
         enunciado: "Você acabou de comprar seu animal de estimação, qual você escolheu?",
         alternativas: [
         {//alternativa 1
@@ -133,8 +133,8 @@ const perguntas = [ //abre uma lista de perguntas
             afirmacao: "Sonserina",
         },
     ]
-    { //abre objeto de pergunta
-        enunciado: "Você vê Harry Potter pela primeira vez, qual sua reação?",
+}
+{        enunciado: "Você vê Harry Potter pela primeira vez, qual sua reação?",
         alternativas: [
         {//alternativa 1
             texto: "Peço um autógrafo e fotos.",
@@ -153,6 +153,7 @@ const perguntas = [ //abre uma lista de perguntas
             afirmacao: "Corvinal",
         },
     ]
+}
     { //abre objeto de pergunta
         enunciado: "O que você veria no espelho de Oesed?",
         alternativas: [
