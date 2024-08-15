@@ -8,7 +8,6 @@
 body{ /*estilização no corpo da página*/
     background-color: var(--cor-fundo); /*cor de fundo*/
     background-image: url(potter.jpg);
-    background-repeat: no-repeat no-repeat;
     color: var(--cor-texto); /*cor do texto*/
     display: flex; /**/
     justify-content: center; /*ajusta os elementos no centro*/
