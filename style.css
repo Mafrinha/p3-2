@@ -2,8 +2,8 @@
     --cor-fundo: #4d1111;
     --cor-principal: #3d0c0c;
     --cor-secundaria: #d5b19b;
-    --cor-destaque: #ffffff;
-    --cor-texto: #acadaf;
+    --cor-destaque: #feb070;
+    --cor-texto: #000000;
 }
 body{ /*estilização no corpo da página*/
     background-color: var(--cor-fundo); /*cor de fundo*/
