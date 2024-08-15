@@ -149,7 +149,7 @@ const perguntas = [ //abre uma lista de perguntas
             afirmacao: "Lufa-Lufa",
         },
         { //alternativa 4
-            texto: "Fico admirada.",
+            texto: "Fico admirado.",
             afirmacao: "Corvinal",
         },
     ]
