@@ -24,7 +24,7 @@ h1{
 }
 button { /*estilização dos botões*/
     background-color: var(--cor-secundaria);
-    color: var(--cor-texto);
+    color: black;
     border: none; /*sem borda*/
     border-radius: 15px; /*arredondamento da borda*/
     padding: 15px; /*espaçamento interno de 15 pixels*/
