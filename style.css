@@ -1,12 +1,11 @@
 :root{ /*cria variáveis de cor*/
     --cor-fundo: #4d1111;
-    --cor-principal: #ac715d;
-    --cor-secundaria: #d5b19b;
-    --cor-destaque: #feb070;
-    --cor-texto: #000000;
+    --cor-principal: #6c0000;
+    --cor-secundaria: #fdcfa9;
+    --cor-destaque: #fdcfa9;
+    --cor-texto: #fdcfa9;
 }
 body{ /*estilização no corpo da página*/
-    background-color: var(--cor-fundo); /*cor de fundo*/
     background-image: url(potter.jpg);
     color: var(--cor-texto); /*cor do texto*/
     display: flex; /**/
